@@ -41,8 +41,8 @@ Untuk bikin simulasi ini makin realistis, aku tambahin sistem yang bisa merubah 
 Sama kayak fitur pet commands di Day 1, di sini aku juga pake **MongoDB** buat nyimpen data portofolio dan harga saham, serta **node-cron** buat ngatur pembaruan harga saham dan notifikasinya secara berkala.
 
 > [!IMPORTANT]
-> Untuk kalian yang ingin clone filenya tanpa modifikasi, file `initializeStocks.js` di run terlebih dahulu agar saham perusahaannya bisa terdaftar di database sebelum menjalankan bot kalian. Aku sengaja pisahkan prosesnya dari main file dengan maksud efisiensi waktu tiap kali mau testing atau run botnya secara local.
-> Dan seperti yang ku bilang di atas tadi, karena keterbatasan waktu dalam developnya, simulasi ini tidak memiliki data dalam bentuk grafik. Jadi, mohon maaf kalo misal tampilan data dirasa kurang lengkap dari simulasi ini.
+> - Untuk kalian yang ingin clone filenya tanpa modifikasi, file `initializeStocks.js` di run terlebih dahulu agar saham perusahaannya bisa terdaftar di database sebelum menjalankan bot kalian. Aku sengaja pisahkan prosesnya dari main file dengan maksud efisiensi waktu tiap kali mau testing atau run botnya secara local.
+> - Dan seperti yang ku bilang di atas tadi, karena keterbatasan waktu dalam developnya, simulasi ini tidak memiliki data dalam bentuk grafik. Jadi, mohon maaf kalo misal tampilan data dirasa kurang lengkap dari simulasi ini.
 
 Day 2 ini begitu gacor lah. 8.5/10
 
@@ -54,3 +54,5 @@ Hari ini lagi gak bisa mikir ide yang bagus, jadi aku bikin fitur yang simpel du
 
 Jadi ya day 3 ini basic banget, tapi mungkin akan ku kembangin lagi ini jadi fitur yang lebih gede kapan-kapan. 2/10
 Oke segitu aja, see you in the next update!
+
+---
