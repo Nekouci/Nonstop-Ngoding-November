@@ -1,4 +1,4 @@
-const {Client, Interaction, ApplicationCommandOptionType} = require('discord.js');
+const {Client, Interaction, ApplicationCommandOptionType} = require('discord.js'); // Library discord.js
 const VirtualPet = require('../../models/VirtualPets');
 
 const petTypes = {

@@ -1,6 +1,6 @@
 const {
     Client, Interaction, ApplicationCommandOptionType, EmbedBuilder, ApplicationCommandOptionType
-} = require('discord.js');
+} = require('discord.js'); // Library discord.js
 const VirtualPet = require('../../models/VirtualPets');
 const addExperience = require('../../utils/givePetXP');
 const rewardUser = require('../../utils/petReward');
