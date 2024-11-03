@@ -25,6 +25,7 @@ Terima kasih kepada **MongoDB** untuk penyimpanan data hewan peliharaannya dan *
 > Code ini sangat minim sekali debugging pada saat proses develop, khususnya pada sistem reward. Jadi untuk yang mungkin ingin di clone filenya, mohon dimaklumi apabila terdapat error atau sistem tidak dapat berfungsi dengan baik...
 
 Day 1 ini ya lumayanlah ratingku 6/10.
+
 ---
 ## Day 2: Stock Market Simulation 📈
 
@@ -44,6 +45,7 @@ Sama kayak fitur pet commands di Day 1, di sini aku juga pake **MongoDB** buat n
 > Dan seperti yang ku bilang di atas tadi, karena keterbatasan waktu dalam developnya, simulasi ini tidak memiliki data dalam bentuk grafik. Jadi, mohon maaf kalo misal tampilan data dirasa kurang lengkap dari simulasi ini.
 
 Day 2 ini begitu gacor lah. 8.5/10
+
 ---
 ## Day 3: Simple Bot Response 🤖
 <sub>(Day-Skip Cheat 1)</sub>
